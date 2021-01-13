@@ -28,3 +28,4 @@ for msgnum, msgsize in [i.split() for i in lst]:
 	# и пока ящик не закрыт, письмо можно восстановить
 
 box.quit()
+хуй
